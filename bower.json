@@ -1,0 +1,26 @@
+{
+    "name": "drugsjs",
+    "version": "0.0.1",
+    "authors": [
+        "Walter Vargas <walter@covetel.com.ve>"
+    ],
+    "description": "Canadian Drugs Database",
+    "keywords": [
+        "drugs",
+        "canadian",
+        "database"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/waltervargas/drugsjs",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "pouchdb": "3.3.1"
+    }
+}
